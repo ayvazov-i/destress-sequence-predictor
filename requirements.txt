@@ -1,0 +1,10 @@
+﻿numpy
+pandas
+torch
+fair-esm
+scikit-learn
+xgboost
+tqdm
+matplotlib
+seaborn
+gradio
